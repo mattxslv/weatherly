@@ -24,7 +24,7 @@ Weatherio is a web application that provides real-time weather information based
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mattxslv/finance-tracker.git
+   git clone https://github.com/mattxslv/weatherio.git
    
 2. Install dependencies:
    ```bash
