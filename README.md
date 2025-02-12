@@ -1,5 +1,5 @@
 # Weatherio - Live Weather App
-A  weather tracking web application built with JavaScript, React, HTML, and CSS.
+A  weather tracking web application built with JavaScript, React, HTML, CSS and API.
 
 ## Demo
 Check out the live version of the app here: [Live Demo](https://weatherio-silva.netlify.app/)
