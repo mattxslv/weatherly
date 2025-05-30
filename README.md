@@ -1,12 +1,12 @@
-# Weatherio - Live Weather App
+# Weatherly - Live Weather App
 A  weather tracking web application built with JavaScript, React, HTML, CSS and API.
 
 ## Demo
-Check out the live version of the app here: [Live Demo](https://weatherio-silva.netlify.app/)
+Check out the live version of the app here: [Live Demo](https://weatherly-silva.netlify.app/)
 
 
 ## Description
-Weatherio is a web application that provides real-time weather information based on the user's location. It fetches weather data from a weather API to show current conditions such as temperature, humidity, and weather status. The app also allows users to search for weather in other locations. Built with React for dynamic UI updates and HTML/CSS for the structure and styling.
+Weatherly is a web application that provides real-time weather information based on the user's location. It fetches weather data from a weather API to show current conditions such as temperature, humidity, and weather status. The app also allows users to search for weather in other locations. Built with React for dynamic UI updates and HTML/CSS for the structure and styling.
 
 ## Features
 - Displays current weather based on your location.
@@ -24,7 +24,7 @@ Weatherio is a web application that provides real-time weather information based
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mattxslv/weatherio.git
+   git clone https://github.com/mattxslv/weatherly.git
    
 2. Install dependencies:
    ```bash
