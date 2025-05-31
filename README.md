@@ -2,7 +2,7 @@
 A  weather tracking web application built with JavaScript, React, HTML, CSS and API.
 
 ## Demo
-Check out the live version of the app here: [Live Demo](https://Weatherly-silva.netlify.app/)
+Check out the live version of the app here: [Live Demo](https://weatherly-silva.netlify.app/)
 
 
 ## Description
@@ -24,7 +24,7 @@ Weatherly is a web application that provides real-time weather information based
 ## Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mattxslv/Weatherly.git
+   git clone https://github.com/mattxslv/weatherly.git
    
 2. Install dependencies:
    ```bash
